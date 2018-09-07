@@ -1,2 +1,2 @@
-# CountDownToRock
-Reads song ranking list, sorts them in descending order, finally prints them
+# MobileProject
+Heya, how about that, a repository for mobile programming projects.
