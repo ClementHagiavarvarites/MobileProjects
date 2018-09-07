@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Zadyn
- *
- */
-module stuff {
-}
